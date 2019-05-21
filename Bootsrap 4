@@ -1,1 +1,7 @@
-<div 
+
+
+//----------------this is the lower part of our simple page------------------
+<div class="jumbotron text-center">
+<h4>This is the footer information</h4>
+<p>Copyright : &copy; QuestInterns_2019</p>
+</div>
